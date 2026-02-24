@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Credentials / secrets (DO NOT COMMIT)
+**/*password*
+**/*credentials*
+**/*secret*
+.env
+
+# Draw.io backup files
+*.bkp
