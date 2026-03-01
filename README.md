@@ -18,8 +18,5 @@ This repo documents a Microsoft 365 “modern workplace” implementation for a 
 - `screenshots/` — evidence screenshots (organized by service)
 - `configs/` — user/group lists + policy summaries + migration plan
 - `templates/` — risk register, testing checklist, rollback plan
-- `deliverables/` — final Admin Guide PDF (optional)
+- `deliverables/` — final Admin Guide PDF
 
-## Next Step
-Add your high-level diagram to:
-- `architecture/diagrams/m365-high-level-architecture.png`
